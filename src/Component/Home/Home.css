@@ -1,0 +1,36 @@
+.img_card{
+    height: 12em;
+    width: 80%;
+    align-items: center;
+    padding-left: 50px;
+}
+.py-3{
+    background: rgb(36, 34, 34);
+}
+section{
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.c2{
+width: 50em;align-items: center;
+margin:50px;
+}
+.card-text{
+    display: none;
+}
+.card-img-top{
+    width: 50%;
+}
+
+.container1{
+    background: rgb(48, 44, 41);
+}
+.card img{
+
+    height: 200px;
+}
+.azerty{
+    display: flex;
+}

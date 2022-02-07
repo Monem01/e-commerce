@@ -1,0 +1,71 @@
+
+.mycontainer {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    
+}
+.btn{
+    display: inline-block;
+    margin: 10px;
+}
+.prix .btn:hover{
+    background:  rgb(71, 50, 60);
+}.c1{
+    padding: 50px;
+    width: 700px;
+}
+.imgdetail{
+    width: 400px;
+    height: 400px;
+    border: 1px solid rgb(167, 160, 160);
+}
+.En_Stock{ 
+    color: rgb(38, 240, 65);
+    font-size: 35px;
+}
+
+p.libelle {
+    display: inline-flex;
+    font-size: 30px;
+}
+.Epuiser{
+    color: rgb(240, 73, 73);
+    font-size: 35px;
+}
+.c1 h3{
+    color: rgb(71, 50, 60);
+}
+.prix{
+    font-size: 40px;
+    font-weight: bold;
+    color: red;
+}
+
+.panier input{
+    width: 20%;
+  padding:20px;
+  height: 40px;
+  font-size: 16px;
+  border: 1px solid rgb(156, 154, 154);
+  border-radius: 3px;
+  background: rgb(182, 173, 173);
+  outline: none;
+}
+.panier p{
+    font-size: 20px;
+    margin-left: 15px;
+}
+.panier .btn{
+    height: 40px;
+}
+.panier .btn:hover{
+    background: green;
+    color: white;
+    border: 1px solid green;
+    
+}
+
+

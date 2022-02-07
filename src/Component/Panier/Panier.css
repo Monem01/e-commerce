@@ -1,0 +1,15 @@
+.total{
+    font-weight: bold;
+    color: red;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.imgPanier{
+    height: 100px;
+}
+.commander{
+    display: none;
+}
+.affich{
+    display:block;
+}
